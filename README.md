@@ -1,4 +1,4 @@
-GridView_With_HorizontalScrollbar_Demo
+GridView With HorizontalScrollbar Demo
 ======================================
 
 Android GridView with continuous Horizontal Scrollbar demo
