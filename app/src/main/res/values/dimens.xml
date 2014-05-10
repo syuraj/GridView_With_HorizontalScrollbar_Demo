@@ -1,0 +1,15 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+
+    <dimen name="app_width">500dp</dimen>
+    <dimen name="app_height">300dp</dimen>
+
+
+    <dimen name="app_margin">0dp</dimen>
+    <dimen name="grid_icon_width">46dp</dimen>
+    <dimen name="grid_icon_height">46dp</dimen>
+
+    <dimen name="textbox_height_small">16dp</dimen>
+</resources>
